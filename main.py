@@ -5,3 +5,8 @@ def function():
 
 
 print(function())
+
+def new_function():
+    return "this is new"
+
+print(new_function())
